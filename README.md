@@ -10,5 +10,12 @@ Install Linux Server
 
 ![Screenshot 2024-10-26 152420](https://github.com/user-attachments/assets/2647e6f9-00de-4b01-8aaa-83c5a9516748)
 
-4. Isi nama sesuai yang diinginkan, contohnya seperti Ubuntu 22.04. Lalu, pilih file 
+4. Isi nama sesuai yang diinginkan, contohnya seperti Ubuntu 22.04. Lalu, pilih ISO Image
 ![Screenshot 2024-10-26 152653](https://github.com/user-attachments/assets/11eb1bc9-0690-421e-a58f-c6ebf778f5c3)
+5. Klik 'Other'
+![image](https://github.com/user-attachments/assets/fc493947-0458-4e20-b5a3-9548228b5387)
+6. Pilih file yang telah di unduh
+![image](https://github.com/user-attachments/assets/c247c236-ba66-47f8-851f-377bb47d5ced)
+7. Kemudian centang pada kotak 'Skip Unattended Installation' dan klik 'Next'
+![image](https://github.com/user-attachments/assets/ed6f88ea-d54b-453f-99cd-7a7d85fee99e)
+8.
