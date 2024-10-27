@@ -5,7 +5,7 @@ Install Linux Server
 2. Selanjutnya klik Download pada version yang tersedia dan tunggu hingga download selesai, kemudian buka Oracle VM VirutalBox
 ![Screenshot 2024-10-25 162223](https://github.com/user-attachments/assets/968393c9-2e14-49b4-a321-1082623141f6)
 3. Pilih ‘New’
-![Screenshot 2024-10-26 152420](https://github.com/user-attachments/assets/2647e6f9-00de-4b01-8aaa-83c5a9516748)
+![image](https://github.com/user-attachments/assets/2f20c500-7441-4c1b-8e36-b83110a1b356)
 4. Isi nama sesuai yang diinginkan, contohnya seperti Ubuntu 22.04. Lalu, pilih ISO Image
 ![Screenshot 2024-10-26 152653](https://github.com/user-attachments/assets/11eb1bc9-0690-421e-a58f-c6ebf778f5c3)
 5. Klik 'Other'
@@ -50,9 +50,17 @@ Install Linux Server
 ![image](https://github.com/user-attachments/assets/a031d22b-4a46-4d0f-937d-4b2897ff7d30)
 25. Tekan 'enter' jika install sudah selesai
 ![image](https://github.com/user-attachments/assets/aef8f41e-27bb-4b0d-8366-bcafb7a68572)
-26.
+26. Jika sudah selesai, login dengan username dan password yang telah dimasukkan sebelumnya
 ![image](https://github.com/user-attachments/assets/1db895c1-e493-449a-9e8f-454a018ee4a7)
-
 ![image](https://github.com/user-attachments/assets/708f3ec3-edec-4944-8918-1c604b8daf53)
+![image](https://github.com/user-attachments/assets/ffb901e5-b7f9-4743-84b7-5aecebd4e863)
+
+Input SSH
+1. Untuk mencoba SSH, buka terminal dan ketikkan 'ssh <username>@localhost'. Percobaan SSH idak berhasil karena port belum terbuka
+![image](https://github.com/user-attachments/assets/3a52f57e-5fd5-40ff-84b8-9a8f25799cca)
+2. Untuk itu, buka Oracle VM VirtualBox dan klik 'Settings'
+![image](https://github.com/user-attachments/assets/a4826ff5-9a5f-4a84-b5d6-c77d517fd962)
+
+
 
 
