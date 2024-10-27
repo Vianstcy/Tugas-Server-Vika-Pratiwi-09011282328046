@@ -55,12 +55,20 @@ Install Linux Server
 ![image](https://github.com/user-attachments/assets/708f3ec3-edec-4944-8918-1c604b8daf53)
 ![image](https://github.com/user-attachments/assets/ffb901e5-b7f9-4743-84b7-5aecebd4e863)
 
-Input SSH
+Input SSH dan ganti Port
 1. Untuk mencoba SSH, buka terminal dan ketikkan 'ssh <username>@localhost'. Percobaan SSH idak berhasil karena port belum terbuka
 ![image](https://github.com/user-attachments/assets/3a52f57e-5fd5-40ff-84b8-9a8f25799cca)
-2. Untuk itu, buka Oracle VM VirtualBox dan klik 'Settings'
-![image](https://github.com/user-attachments/assets/a4826ff5-9a5f-4a84-b5d6-c77d517fd962)
-
-
+2. Untuk itu, buka Oracle VM VirtualBox. Pilih Virtual Machine dan klik 'Settings'
+![image](https://github.com/user-attachments/assets/bb3058ce-e7b3-4591-9c4d-08acf93a7f2c)
+3. Pilih 'Network'
+![image](https://github.com/user-attachments/assets/701e299e-5ec7-4f98-b37c-82623a40bbbb)
+4. Klik 'Advanced'
+![image](https://github.com/user-attachments/assets/cfc70977-4b9f-4824-b027-89c3f706ecdd)
+5. Klik 'Port Forwarding'
+![image](https://github.com/user-attachments/assets/e91dfb55-305e-4d22-9eb2-4a4bcc919c2d)
+6. Tambahkan port forwarding rule yang baru
+![image](https://github.com/user-attachments/assets/6129ebb9-b37a-4bf2-af06-bd4b2f17a2e6)
+7. Ganti port menjadi 40
+![image](https://github.com/user-attachments/assets/c2638cc8-8929-4095-ae90-43f473dd1753)
 
 
