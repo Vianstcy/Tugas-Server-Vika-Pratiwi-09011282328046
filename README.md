@@ -46,7 +46,7 @@ Install Linux Server
 ![image](https://github.com/user-attachments/assets/818180b5-9f1a-4cd2-81e5-efda97ac6678)
 23. Pada bagian featured server snaps di skip saja
 ![image](https://github.com/user-attachments/assets/3bff0061-a4b9-4e46-bb37-2f158015c2ae)
-24. Sistem menginstall
+24. Tunggu sistem hingga seleai menginstall
 ![image](https://github.com/user-attachments/assets/a031d22b-4a46-4d0f-937d-4b2897ff7d30)
 25. d
 
