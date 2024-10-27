@@ -45,5 +45,12 @@ Install Linux Server
 22. d
 ![image](https://github.com/user-attachments/assets/818180b5-9f1a-4cd2-81e5-efda97ac6678)
 23. a
-
+![image](https://github.com/user-attachments/assets/3bff0061-a4b9-4e46-bb37-2f158015c2ae)
 24. d
+![image](https://github.com/user-attachments/assets/ffcf4c45-204a-4318-bab7-78e60fa02c06)
+25. d
+![image](https://github.com/user-attachments/assets/a031d22b-4a46-4d0f-937d-4b2897ff7d30)
+26.
+
+
+
