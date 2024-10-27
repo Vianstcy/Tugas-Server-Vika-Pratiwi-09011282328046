@@ -48,9 +48,11 @@ Install Linux Server
 ![image](https://github.com/user-attachments/assets/3bff0061-a4b9-4e46-bb37-2f158015c2ae)
 24. Tunggu sistem hingga seleai menginstall
 ![image](https://github.com/user-attachments/assets/a031d22b-4a46-4d0f-937d-4b2897ff7d30)
-25. d
-
+25. Tekan 'enter' jika install sudah selesai
+![image](https://github.com/user-attachments/assets/aef8f41e-27bb-4b0d-8366-bcafb7a68572)
 26.
+![image](https://github.com/user-attachments/assets/1db895c1-e493-449a-9e8f-454a018ee4a7)
 
+![image](https://github.com/user-attachments/assets/708f3ec3-edec-4944-8918-1c604b8daf53)
 
 
