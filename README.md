@@ -68,7 +68,7 @@ Input SSH dan ganti Port
 ![image](https://github.com/user-attachments/assets/e91dfb55-305e-4d22-9eb2-4a4bcc919c2d)
 6. Tambahkan port forwarding rule yang baru
 ![image](https://github.com/user-attachments/assets/6129ebb9-b37a-4bf2-af06-bd4b2f17a2e6)
-7. Ganti port menjadi 40
+7. Ganti port menjadi 40, lalu klik 'OK'
 ![image](https://github.com/user-attachments/assets/c2638cc8-8929-4095-ae90-43f473dd1753)
 
 
